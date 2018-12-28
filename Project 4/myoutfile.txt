@@ -1,0 +1,30 @@
+Intials:            TGP       
+Title:              Clerical
+Age Group:          group_1
+Pay Per Hour:       8112      
+Code:               21        
+
+Intials:            JWW       
+Title:              Supervisor
+Age Group:          group_2
+Pay Per Hour:       13520     
+Code:               18        
+
+Intials:            TMS       
+Title:              Clerical
+Age Group:          group_3
+Pay Per Hour:       16224     
+Code:               7         
+
+Intials:            MLH       
+Title:              Management
+Age Group:          group_3
+Pay Per Hour:       64480     
+Code:               20        
+
+Intials:            SSB       
+Title:              Supervisor
+Age Group:          group_2
+Pay Per Hour:       25584     
+Code:               16        
+
