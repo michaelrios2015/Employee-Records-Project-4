@@ -17,10 +17,11 @@ B - Supervisor
 C - Clerical Age    
 
 This will be the employee's actual age, but you will print out the group that the employee falls in according to the ranges:
- < 25:   group 1      
-25-40:  group 2      
-41-65:  group 3      
-> 65:   group 4 
+* < 25:   group 1      
+* 25-40:  group 2      
+* 41-65:  group 3      
+* \> 65:   group 4 
+
 Salary (hour        Your program will print the annual salary   pay rate)   based on 2080 hours per year. 
 
 Code    This is to be calculated by adding up the digits of the employee license number. (For     example, 14 is the code number for license      number 5432). 
