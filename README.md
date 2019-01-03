@@ -34,7 +34,7 @@ This is to be calculated by adding up the digits of the employee license number.
 
 The report line shown below is generated for the data: 
 SCS, B, 37, 25, 4436  <br> 
-Name  Position  Age  Annual Pay Code
+Name  Position  Age  Annual Pay Code <br> 
 SCS  Supervisor group 2   $52000       17 
  
 Your program should at least consist of the following methods:   
