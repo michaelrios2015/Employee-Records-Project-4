@@ -27,9 +27,9 @@ Your program will print the annual salary based on 2080 hours per year.
 This is to be calculated by adding up the digits of the employee license number. (For     example, 14 is the code number for license      number 5432). 
 
 The report line shown below is generated for the data: 
-SCS, B, 37, 25, 4436  <br> 
-Name &nbsp; &nbsp; | Position  &nbsp; &nbsp; &nbsp; | Age &nbsp; &nbsp; &nbsp;    | Annual &nbsp; &nbsp; &nbsp; | Pay Code <br> 
-SCS  &nbsp; &nbsp;| Supervisor &nbsp; &nbsp;| group 2 &nbsp; &nbsp;|  $52000 &nbsp; &nbsp;|      17 
+**SCS, B, 37, 25, 4436**  <br> 
+Name &nbsp; &nbsp; | Position  &nbsp; &nbsp; &nbsp; | Age &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Annual &nbsp; &nbsp; &nbsp; | Pay Code <br> 
+SCS  &nbsp; &nbsp; &nbsp; &nbsp;| Supervisor &nbsp; &nbsp;| group 2 &nbsp; &nbsp;|  $52000 &nbsp; &nbsp; &nbsp;|      17 
  
 Your program should at least consist of the following methods:   
 * int Code(int number);      
