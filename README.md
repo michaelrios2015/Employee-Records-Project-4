@@ -1,20 +1,17 @@
 # Employee-Records-Project-4
 
-
 This is the assignment the project was created for 
 
-    Project  4     COSC 501/AIT500  Fall 2013                          By Prof. H. Zhou       Due: Nov 10,2013  
+**COSC 501 at Towson University**
 
 The purpose of this assignment is to review how to use  the Switch statement and functions with parameters.    At Bob's Bank, Bob senior would like to keep some information on his employees readily available. Bob junior suggested he keep the data on the computer so that it would be available anytime someone ran a program. As the sole computer programmer you are to write a program which will read in the employee data and print a report. The data entered for each employee and the output corresponding to each data item are described next. 
-  
- 
+   
 **Intials Class** <br>
 This will be a character A, B, C which you convert to print one of the classifications      
 
 A - Management      
 B - Supervisor      
 C - Clerical Age    
-
 
 **Age** <br>
 This will be the employee's actual age, but you will print out the group that the employee falls in according to the ranges:
@@ -23,19 +20,16 @@ This will be the employee's actual age, but you will print out the group that th
 * 41-65:  group 3      
 * \> 65:   group 4 
 
-
 **Salary** (hour pay rate)        
 Your program will print the annual salary based on 2080 hours per year. 
-
-
 
 **Code**    
 This is to be calculated by adding up the digits of the employee license number. (For     example, 14 is the code number for license      number 5432). 
 
 The report line shown below is generated for the data: 
 SCS, B, 37, 25, 4436  <br> 
-Name  Position  Age  Annual Pay Code <br> 
-SCS  Supervisor group 2   $52000       17 
+Name &nbsp; &nbsp; | Position  &nbsp; &nbsp; &nbsp; | Age &nbsp; &nbsp; &nbsp;    | Annual &nbsp; &nbsp; &nbsp; | Pay Code <br> 
+SCS  &nbsp; &nbsp;| Supervisor &nbsp; &nbsp;| group 2 &nbsp; &nbsp;|  $52000 &nbsp; &nbsp;|      17 
  
 Your program should at least consist of the following methods:   
 * int Code(int number);      
